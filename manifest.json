@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "Termo solution",
+  "description": "Shows all possible words to solve the Termo based on the rules of the letters already entered",
+  "version": "0.1",
+  "icons": {
+    "16": "images/icon-16.png",
+    "32": "images/icon-32.png",
+    "48": "images/icon-48.png",
+    "128": "images/icon-128.png"
+  },
+  "action": {
+    "default_icon": {
+      "16": "images/icon-16.png",
+      "32": "images/icon-32.png",
+      "48": "images/icon-48.png",
+      "128": "images/icon-128.png"
+    }
+  }
+}
